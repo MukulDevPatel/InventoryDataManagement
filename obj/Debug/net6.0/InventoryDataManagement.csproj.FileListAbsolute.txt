@@ -1,0 +1,17 @@
+D:\BridgeLabz Second batch\InventoryDataManagement\bin\Debug\net6.0\InventoryDataManagement.exe
+D:\BridgeLabz Second batch\InventoryDataManagement\bin\Debug\net6.0\InventoryDataManagement.deps.json
+D:\BridgeLabz Second batch\InventoryDataManagement\bin\Debug\net6.0\InventoryDataManagement.runtimeconfig.json
+D:\BridgeLabz Second batch\InventoryDataManagement\bin\Debug\net6.0\InventoryDataManagement.dll
+D:\BridgeLabz Second batch\InventoryDataManagement\bin\Debug\net6.0\InventoryDataManagement.pdb
+D:\BridgeLabz Second batch\InventoryDataManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\BridgeLabz Second batch\InventoryDataManagement\obj\Debug\net6.0\InventoryDataManagement.csproj.AssemblyReference.cache
+D:\BridgeLabz Second batch\InventoryDataManagement\obj\Debug\net6.0\InventoryDataManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabz Second batch\InventoryDataManagement\obj\Debug\net6.0\InventoryDataManagement.AssemblyInfoInputs.cache
+D:\BridgeLabz Second batch\InventoryDataManagement\obj\Debug\net6.0\InventoryDataManagement.AssemblyInfo.cs
+D:\BridgeLabz Second batch\InventoryDataManagement\obj\Debug\net6.0\InventoryDataManagement.csproj.CoreCompileInputs.cache
+D:\BridgeLabz Second batch\InventoryDataManagement\obj\Debug\net6.0\InventoryDataManagement.csproj.CopyComplete
+D:\BridgeLabz Second batch\InventoryDataManagement\obj\Debug\net6.0\InventoryDataManagement.dll
+D:\BridgeLabz Second batch\InventoryDataManagement\obj\Debug\net6.0\refint\InventoryDataManagement.dll
+D:\BridgeLabz Second batch\InventoryDataManagement\obj\Debug\net6.0\InventoryDataManagement.pdb
+D:\BridgeLabz Second batch\InventoryDataManagement\obj\Debug\net6.0\InventoryDataManagement.genruntimeconfig.cache
+D:\BridgeLabz Second batch\InventoryDataManagement\obj\Debug\net6.0\ref\InventoryDataManagement.dll
