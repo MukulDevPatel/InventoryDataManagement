@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/SQeaonAJR7eYc1Ie0tafhnx4MylhNpGdnKZVLReFMgCIa9TjrPYFANYwUD/awS8u2naNK6VWcy+WYrnd9HQHw==",
+  "dgSpecHash": "novZmpM0XdAOW9d5+DTczRMFU5i2tWDrQsUIBiCCRnluMQCEyTSbB+OeuQgc5YdY+rRuygzjbrD02AtvGw2jvA==",
   "success": true,
-  "projectFilePath": "D:\\BridgeLabz Second batch\\InventoryDataManagement\\InventoryDataManagement.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Asus\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\BridgeLabz Second batch\\ObjectOrientedPrograms\\ObjectOrientedPrograms.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

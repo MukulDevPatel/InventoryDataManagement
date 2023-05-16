@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryDataManagement", "InventoryDataManagement.csproj", "{D8E19B61-6F4B-4D88-8DBB-43E37755206D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectOrientedPrograms", "ObjectOrientedPrograms.csproj", "{69917F06-E87E-4946-B277-3E3F72A37626}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D8E19B61-6F4B-4D88-8DBB-43E37755206D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D8E19B61-6F4B-4D88-8DBB-43E37755206D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D8E19B61-6F4B-4D88-8DBB-43E37755206D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D8E19B61-6F4B-4D88-8DBB-43E37755206D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69917F06-E87E-4946-B277-3E3F72A37626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69917F06-E87E-4946-B277-3E3F72A37626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69917F06-E87E-4946-B277-3E3F72A37626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69917F06-E87E-4946-B277-3E3F72A37626}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D6E20286-29D9-460D-89C9-2C158EE24158}
+		SolutionGuid = {232C93F5-576A-4F18-856E-2697CBD810D5}
 	EndGlobalSection
 EndGlobal
