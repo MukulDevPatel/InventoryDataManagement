@@ -6,14 +6,16 @@ using System.Threading.Tasks;
 
 namespace ObjectOrientedPrograms
 {
-    public class Stock
+    public class CompanyShares
     {
         public string Name { get; set; }
         public int NumOfShares { get; set; }
-        public double SharePrice { get; set; }
-        public double Calculate()
+        public double Price { get; set; }
+        public CompanyShares(string name, int numOfShares, double price)
         {
-            return NumOfShares * SharePrice;
+            Name = name;
+            NumOfShares = numOfShares;
+            Price = price;
         }
     }
 }

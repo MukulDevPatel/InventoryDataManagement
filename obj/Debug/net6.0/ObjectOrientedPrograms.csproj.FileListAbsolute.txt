@@ -28,3 +28,5 @@ D:\BridgeLabz Second batch\ObjectOrientedPrograms\obj\Debug\net6.0\refint\Object
 D:\BridgeLabz Second batch\ObjectOrientedPrograms\obj\Debug\net6.0\ObjectOrientedPrograms.pdb
 D:\BridgeLabz Second batch\ObjectOrientedPrograms\obj\Debug\net6.0\ObjectOrientedPrograms.genruntimeconfig.cache
 D:\BridgeLabz Second batch\ObjectOrientedPrograms\obj\Debug\net6.0\ref\ObjectOrientedPrograms.dll
+D:\BridgeLabz Second batch\ObjectOrientedPrograms\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\BridgeLabz Second batch\ObjectOrientedPrograms\obj\Debug\net6.0\ObjectOrientedPrograms.csproj.CopyComplete

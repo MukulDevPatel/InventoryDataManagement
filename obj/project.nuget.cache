@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "novZmpM0XdAOW9d5+DTczRMFU5i2tWDrQsUIBiCCRnluMQCEyTSbB+OeuQgc5YdY+rRuygzjbrD02AtvGw2jvA==",
+  "dgSpecHash": "X/0Nz0Q6P3rHRnWryJsWwV3MvHnQhUAORxbAAmwuQa6rys9VHxalHiX60ii7KxJKMCydsARWDQEW/Jt0BHrExA==",
   "success": true,
   "projectFilePath": "D:\\BridgeLabz Second batch\\ObjectOrientedPrograms\\ObjectOrientedPrograms.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
